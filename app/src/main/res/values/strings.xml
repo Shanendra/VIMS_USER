@@ -1,0 +1,91 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">VIMS_USER</string>
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="About_College">Vindhya Institute of Technology and Science (VITS) Satna was started in the year 2002 by the DPR Charitable Trust. Since then, more than 3000 students have graduated from VITS, and are presently working with various leading organizations in the country. Driven by visionary leadership of its founders which primarily include the alumni of IIT’s, IIM’s and BITS Pilani, the Institution has been striving to provide quality education to the students of Vindhya region. </string>
+
+
+    <!--    ABOUT VITS-->
+    <string name="About_vits1">To transform graduates into IT professionals and entrepreneurs, possessing human values who will contribute towards the betterment of community and country. </string>
+
+    <string name="About_vits3">
+        <br>PEO-1. To facilitate graduates in learning core competencies as well as basic skills in allied technologies to enable them to progress as scholars of higher education and research, as competent employees or as innovative entrepreneurs.\n</br>
+        <br>\n</br>
+        <br>PEO-2. To train graduates in diversiﬁed and applied areas with analysis, design and synthesis and maintenance of data to create products and the solutions to meet industrial and societal needs.\n</br>
+        <br>\n</br>
+        <br>PEO-3. To transform students into lifelong learners and professionals with soft skills who can easily adopt challenges in working environment with a sense of ethical responsibility.</br>
+    </string>
+
+
+    <string name="About_vits2">
+        <br>M-1. Provide a strong theoretical and practical background across the computer Science and Engineering discipline with an emphasis on overall personality development of professionals.\n</br>
+        <br>\n</br>
+        <br> M-2. Ensure a conducive environment for faculty to engage in and assure better learning by the students in progressive themes to enable them to choose careers of their interest.\n</br>
+        <br>\n</br>
+        <br>M-3. Create an environment to inculcate multi-skilling, leadership, team building, self-learning and life-long learning while exploring the emerging sectors of Information Technology.</br> </string>
+
+
+    <string name="About_vits4">
+
+    <br>Welcome to Vindhya Institute Of Technology and Science, Satna. The aim of the college is to provide unmatched qualitative education par excellence to develop the best that is latent in students and to encourage the students to explore and revel in the joy of learning.</br>
+    </string>
+
+    <!--    ABOUT VIMS-->
+
+    <string name="About_vims1">To catalyze transformation of our students into confident and responsible professionals, endowed with up-to-date knowledge and expertise in their chosen disciplines, excellent communication skills and sensitive souls who are assets to their families, community, nation and humanity at large. </string>
+
+    <string name="About_vims2">
+        <br>\n</br>
+        <br>Welcome to Vindhya Institute of Management and Science, Satna. The aim of this Institute is to provide quality education in the field of Commerce and Management. After a successful period of seven years at VIMS, Satna which is one of the premier institutions in Vindhya Region in the field of Commerce and Management, I look forward with a new zeal and optimism to lead VIMS to greater heights of success. The enthusiasm that I have observed among the faculty members and the students of VIMS is truly commendable. With their support and positive attitude, I am confident that VIMS will soon become one of the best institutes in the country.</br>
+
+    </string>
+
+    <string name="About_vims3">
+        <br>I promise that VIMS will work towards developing smart managers, entrepreneurs and IT Professionals thus contributing its bit to the development of our society and nation. All activities carried out by VIMS will focus primarily on grooming the students and enhancing their academic and inter personal skill sets and finally making them a good human being. We at VIMS have three different clubs i.e. Commerce Club, IT Club and Science Club performing various activities like Debate, Extempore, Poster Presentation, Power point Presentation etc. for all round development of students. Our students ranked top ten in University Examinations. I welcome all the students to approach me with their queries and concerns. Students’ success and their well-being will always remain the most important priority of VIMS.</br>
+
+
+
+
+    </string>
+
+
+   <!--    ABOUT VIMR-->
+
+    <string name="About_vimr1">To catalyze transformation of our students into a responsible management professionals by imparting right knowledge, attitude, management and leadership skills. </string>
+
+    <string name="About_vimr2">
+        <br> M-1 To impart quality management education.\n </br>
+        <br>\n</br>
+        <br>M-2 To develop innovative professionals, entrepreneurs, and researchers.\n </br>
+        <br>\n</br>
+        <br>M-3	Provide an Environment to add continuous learning among students.</br>
+    </string>
+
+    <string name="About_vimr3">
+        <br>1	Apply knowledge of management theories and practices to solve business problems.\n </br>
+        <br>\n</br>
+        <br>2	Foster Analytical and critical thinking abilities for data-based decision making\n </br>
+        <br>\n</br>
+        <br>3	Ability to develop Value based Leadership ability.\n</br>
+        <br>\n</br>
+        <br>4	Ability to understand, analyse and communicate global, economic, legal, and ethical aspects of business \n</br>
+        <br>\n</br>
+        <br>5	Ability to lead themselves and others in the achievement of organizational goals, contributing effectively to a team environment.\n</br>
+
+
+
+
+    </string>
+
+
+    <string name="About_vimr4">
+
+        <br>We transform our students into confident and responsible professionals with up-to-date knowledge and expertise in their chosen disciplines, excellent communication skills and sensitive souls who are assets to their families, community, nation and humanity at large.</br>
+    </string>
+
+</resources>

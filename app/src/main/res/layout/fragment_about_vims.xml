@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+
+            <com.denzcoskun.imageslider.ImageSlider
+                android:id="@+id/image_slider"
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                app:iss_auto_cycle="true"
+                app:iss_delay="1000"
+                app:iss_period="1000"
+                app:iss_text_align="CENTER"></com.denzcoskun.imageslider.ImageSlider>
+
+
+
+            <TextView
+                android:id="@+id/textViewvims"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="32dp"
+                android:fontFamily="@string/bold"
+                android:text="Welcome To VIMS"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/title_size" />
+
+
+            <TextView
+                android:id="@+id/textViewVIMS"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:layout_marginHorizontal="@dimen/text_margin"
+                android:layout_marginBottom="16dp"
+                android:fontFamily="@string/light"
+                android:text="@string/About_vims2"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/text_size" />
+
+
+
+            <TextView
+                android:id="@+id/textViewvision"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="32dp"
+                android:fontFamily="@string/bold"
+                android:text="VISION"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/title_size" />
+
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginHorizontal="@dimen/text_margin"
+                android:layout_marginTop="@dimen/text_margin"
+                android:fontFamily="@string/light"
+                android:text="@string/About_vims1"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/text_size" />
+
+
+
+            <TextView
+                android:id="@+id/textViewMISSION"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="32dp"
+                android:fontFamily="@string/bold"
+                android:text="MISSION"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/title_size" />
+
+
+            <TextView
+                android:id="@+id/textViewmisn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginHorizontal="@dimen/text_margin"
+                android:layout_marginTop="@dimen/text_margin"
+                android:layout_marginBottom="16dp"
+                android:fontFamily="@string/light"
+                android:text="@string/About_vits2"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/text_size" />
+
+
+
+            <TextView
+                android:id="@+id/textViewPEOS"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="32dp"
+                android:fontFamily="@string/bold"
+                android:text="Programme Educational Objectives"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/title_size" />
+
+
+            <TextView
+                android:id="@+id/textViewmpeos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:layout_marginHorizontal="@dimen/text_margin"
+                android:layout_marginBottom="16dp"
+                android:fontFamily="@string/light"
+                android:text="@string/About_vits3"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/text_size" />
+
+
+
+            <TextView
+                android:id="@+id/textViewvimsp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="32dp"
+                android:fontFamily="@string/bold"
+                android:text="VIMS PRINCIPAL'S MESSAGE"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/title_size" />
+
+
+            <TextView
+                android:id="@+id/textViewVIMSP"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:layout_marginHorizontal="@dimen/text_margin"
+                android:layout_marginBottom="16dp"
+                android:fontFamily="@string/light"
+                android:text="@string/About_vims3"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/text_size" />
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
